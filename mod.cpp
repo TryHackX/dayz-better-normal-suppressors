@@ -1,0 +1,11 @@
+name = "Better Normal Suppressors";
+picture = "BetterNormalSuppressors/gui/logo/bns_logo.paa";
+logo = "BetterNormalSuppressors/gui/logo/bns_logo.paa";
+logoSmall = "BetterNormalSuppressors/gui/logo/bns_logo.paa";
+logoOver = "BetterNormalSuppressors/gui/logo/bns_logo_over.paa";
+tooltip = "Better Normal Suppressors";
+overview = "Suppressors last longer - set an exact durability multiplier for any suppressor in the server config. Server-side mod.";
+action = "https://github.com/TryHackX/dayz-better-normal-suppressors";
+author = "TryHackX";
+authorID = "76561199846115789";
+version = "1.1";
