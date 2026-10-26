@@ -2,7 +2,7 @@
 
 Suppressors last longer - exactly as much longer as the server sets it, for any suppressor (also from other mods). For DayZ 1.30 (Badlands).
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3331857686) · DayZ 1.30 (Badlands) · author: TryHackX
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3827412006) · DayZ 1.30 (Badlands) · author: TryHackX
 
 ## Support
 
